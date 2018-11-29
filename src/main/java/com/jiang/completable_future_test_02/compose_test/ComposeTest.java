@@ -1,4 +1,4 @@
-package com.jiang.completable_future_test_02;
+package com.jiang.completable_future_test_02.compose_test;
 
 /**
  * @ClassName ComposeTest

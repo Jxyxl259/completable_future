@@ -1,4 +1,4 @@
-package com.jiang.completable_future_test_02.entity;
+package com.jiang.completable_future_test_02.compose_test.entity;
 
 import java.util.HashMap;
 import java.util.Map;
